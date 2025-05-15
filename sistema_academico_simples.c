@@ -1,3 +1,5 @@
+/*Código que cadastra alunos em um sistema, junto de suas notas e media.*/
+
 #include "stdio.h"
 #include "math.h"
 #include "string.h"
